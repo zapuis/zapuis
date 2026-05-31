@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3B82F6FF&text=Alexander%20Zapuis&textBg=false&fontSize=60&section=header&desc=Aspiring%20Web%20Developer%20·%20Lifelong%20Learner&descAlign=0&descAlignY=70&fontColor=eee&animation=twinkling"/>
 
-<!--
-**zapuis/zapuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&width=435&lines=ALEXANDER+ZAPUIS;A+developer+in+progress;Every+bug+is+a+lesson+in+disguise.;Learning+one+commit+at+a+time.;Turning+curiosity+into+code.;Code.+Learn.+Improve.+Repeat.;Building+today%2C+learning+forever.;Driven+by+curiosity%2C+powered+by+code.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Work-ff3e3e?style=for-the-badge)
+![](https://img.shields.io/badge/Kathmandu%2C%20Nepal-1c1c1e?style=for-the-badge)
+![](https://img.shields.io/badge/he%2Fhim-1c1c1e?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=zapuis&style=for-the-badge&color=ff3e3e&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 〔 01 〕 About Me
+
+```js
+const zapuis = {
+  role: "Aspiring Full-Stack Developer",
+  location: "Laguna, Philippines",
+  believe: "Progress beats perfection.",
+};
+```
