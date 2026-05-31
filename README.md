@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3B82F6FF&text=Alexander%20Zapuis&textBg=false&fontSize=60&section=header&desc=Aspiring%20Web%20Developer%20·%20Lifelong%20Learner&descAlign=0&descAlignY=70&fontColor=eee&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=3B82F6FF&text=Alexander%20Zapuis&desc=Aspiring%20Web%20Developer%20•%20Lifelong%20Learner&fontAlign=50&fontAlignY=45&descAlignY=65&fontColor=eee&animation=twinkling"/>
 
 <div align="center">
 
