@@ -40,9 +40,33 @@ const zapuis = {
 ## 〔 03 〕 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 16px; align-items: stretch;">
     <img src="https://streak-stats.demolab.com?user=zapuis&theme=dark&hide_border=true&mode=weekly" style="height: 165px; width: auto;" />
-  </div>
 </div>
+
 ---
 
+## 〔 04 〕 Featured Projects
+
+<div align="center">
+</div>
+
+---
+
+## 〔 05 〕 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijaya-dev07&bg_color=0c0c0d&color=888888&line=ff3e3e&point=ffffff&area=true&area_color=ff3e3e&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 〔 06 〕Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff3e3e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1e?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3e3e&height=140&section=footer&animation=fadeIn"/>
