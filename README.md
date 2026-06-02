@@ -41,9 +41,8 @@ const zapuis = {
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 16px; align-items: stretch;">
-[![GitHub Streak](https://streak-stats.demolab.com?user=zapuis&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+    <img src="[https://streak-stats.demolab.com?user=bijaya-dev07&hide_border=true&background=0c0c0d&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555](https://streak-stats.demolab.com/?user=zapuis&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)" style="height: 165px; width: auto;" />
   </div>
 </div>
-
 ---
 
