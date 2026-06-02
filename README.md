@@ -56,7 +56,7 @@ const zapuis = {
 ## 〔 05 〕 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijaya-dev07&bg_color=0c0c0d&color=888888&line=ff3e3e&point=ffffff&area=true&area_color=ff3e3e&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zapuis&bg_color=0c0c0d&color=888888&line=ff3e3e&point=ffffff&area=true&area_color=ff3e3e&hide_border=true%22%20width=%22100%" />
 </div>
 
 ---
