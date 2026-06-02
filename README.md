@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=3B82F6FF&text=Alexander%20Zapuis&desc=Aspiring%20Web%20Developer%20•%20Lifelong%20Learner&fontAlign=50&fontAlignY=45&descAlignY=65&fontColor=eee&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3B82F6FF&text=Alexander%20Zapuis&section=header&desc=Aspiring%20Web%20Developer%20•%20Lifelong%20Learner&fontAlign=50&fontAlignY=35&fontColor=eee&animation=twinkling"/>
 
 <div align="center">
 
@@ -70,4 +70,4 @@ const zapuis = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3e3e&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=3B82F6FF&section=footer"/>
