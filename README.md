@@ -69,7 +69,7 @@ const zapuis = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff3e3e?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff3e3e?style=for-the-badge&logo=vercel&logoColor=white)](https://zapuis.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1e?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
