@@ -55,6 +55,8 @@ const zapuis = {
 | **🚀 Easy Coin Machine (EC Machine)** | Embedded Systems / Automation | A smart automated money-changing machine that converts paper bills into coins and smaller denominations. Designed to provide fast, secure, and convenient cash exchange for everyday transactions. | ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange) ![Electronics](https://img.shields.io/badge/Electronics-Hardware-red) |
 | **💼 JobKeys – Online Recruitment and Job Portal System** | Full-Stack Web Application | A web-based recruitment platform that connects job seekers and employers through an online portal. Streamlines job searching, applicant management, and recruitment workflows. | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) |
 
+</div>
+
 ---
 
 ## 〔 05 〕 Contribution Graph
